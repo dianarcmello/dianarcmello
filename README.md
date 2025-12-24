@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>Bem-vindo(a)! Meu nome é Diana 👋</strong><br/>
-  <em>Front-End Developer | Junior</em>
+  <strong>Olá! Eu sou a Diana 👋</strong><br/>
+  <em>Front-End Developer em Progresso</em>
 </p>
 
 <p align="center">
@@ -15,12 +15,12 @@
 
 ---
 
-# 💻 Front-End Development | Junior
+# 💻 Desenvolvimento Front-End
 
 Bem-vindo(a) ao meu perfil no GitHub!  
-Aqui você encontra projetos e estudos focados em **desenvolvimento Front-End**, com ênfase em interfaces modernas, responsivas e orientadas à experiência do usuário.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em constante evolução no **desenvolvimento Front-End**, criando interfaces modernas, responsivas e focadas na experiência do usuário.
 
-## 🚀 Tecnologias & Linguagens
+## 🚀 Tecnologias em Aprendizado
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -29,36 +29,22 @@ Aqui você encontra projetos e estudos focados em **desenvolvimento Front-End**,
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-## 📌 Conteúdo
+## 📌 O que você vai encontrar aqui
 
+- Projetos Front-End em evolução  
 - Layouts responsivos  
 - Componentes reutilizáveis  
-- Projetos práticos de Front-End  
-- Exercícios e estudos contínuos  
-- Boas práticas de organização e código limpo  
+- Exercícios práticos e estudos  
+- Aplicação de boas práticas de código  
 
 ## 🎯 Objetivo
 
-Atuar como **Desenvolvedora Front-End Júnior**, consolidando conhecimentos técnicos e evoluindo continuamente por meio de projetos práticos.
+Evoluir continuamente como **Desenvolvedora Front-End**, consolidando fundamentos técnicos e construindo um portfólio sólido para oportunidades de **estágio e posição júnior**.
 
 ## 📈 Status
 
-📌 Em constante evolução — aprendizado contínuo e melhorias frequentes.
+📌 Em desenvolvimento constante — aprendendo, praticando e melhorando a cada projeto.
 
 ---
 
-✨ *Construindo interfaces, um projeto de cada vez.*
-<!--
-**dianarcmello/dianarcmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ *Aprender, construir e evoluir — um commit de cada vez.*
