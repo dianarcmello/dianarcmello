@@ -20,7 +20,7 @@
 Bem-vindo(a) ao meu perfil no GitHub!  
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em constante evolução no **desenvolvimento Front-End**, criando interfaces modernas, responsivas e focadas na experiência do usuário.
 
-## 🚀 Tecnologias em Aprendizado
+## 🚀 Tecnologias que utilizo
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
